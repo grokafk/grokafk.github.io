@@ -1,6 +1,9 @@
 #masthead{
-    background-image: url(/img/header.png);
-
+    background-image: url(/img/header.png) ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 
